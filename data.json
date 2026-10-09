@@ -1,0 +1,74 @@
+{
+  "davlatlar_bayroqlari": [
+    {
+      "id": 1,
+      "davlat": "O'zbekiston",
+      "kod": "UZ",
+      "bayroq": "🇺🇿",
+      "poytaxt": "Toshkent"
+    },
+    {
+      "id": 2,
+      "davlat": "AQSh",
+      "kod": "US",
+      "bayroq": "🇺🇸",
+      "poytaxt": "Vashington"
+    },
+    {
+      "id": 3,
+      "davlat": "Buyuk Britaniya",
+      "kod": "GB",
+      "bayroq": "🇬🇧",
+      "poytaxt": "London"
+    },
+    {
+      "id": 4,
+      "davlat": "Fransiya",
+      "kod": "FR",
+      "bayroq": "🇫🇷",
+      "poytaxt": "Parij"
+    },
+    {
+      "id": 5,
+      "davlat": "Germaniya",
+      "kod": "DE",
+      "bayroq": "🇩🇪",
+      "poytaxt": "Berlin"
+    },
+    {
+      "id": 6,
+      "davlat": "Yaponiya",
+      "kod": "JP",
+      "bayroq": "🇯🇵",
+      "poytaxt": "Tokio"
+    },
+    {
+      "id": 7,
+      "davlat": "Janubiy Koreya",
+      "kod": "KR",
+      "bayroq": "🇰🇷",
+      "poytaxt": "Seul"
+    },
+    {
+      "id": 8,
+      "davlat": "Turkiya",
+      "kod": "TR",
+      "bayroq": "🇹🇷",
+      "poytaxt": "Anqara"
+    },
+    {
+      "id": 9,
+      "davlat": "Rossiya",
+      "kod": "RU",
+      "bayroq": "🇷🇺",
+      "poytaxt": "Moskva"
+    },
+    {
+      "id": 10,
+      "davlat": "Birlashgan Arab Amirliklari",
+      "kod": "AE",
+      "bayroq": "🇦🇪",
+      "poytaxt": "Abu-Dabi"
+    }
+  ]
+}
